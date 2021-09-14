@@ -8,9 +8,11 @@ sites:
   - name: Air Freelance
     url: https://www.air-freelance.com
   - name: Spitz Magazine
-    url: http://spitz-magazine.vercel.app
+    url: https://spitz-magazine.vercel.app
   - name: Pasta della Casa
-    url: http://pastadellacasa.com
+    url: https://pastadellacasa.com
+  - name: iRonnysh
+    url: https://ironnysh.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
