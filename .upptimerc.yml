@@ -15,6 +15,8 @@ sites:
     url: https://ironnysh.com
   - name: Greek Goddess
     url: https://irisganor.com
+  - name: Mighty
+    url: https://mighty-site.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
