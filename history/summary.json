@@ -76,17 +76,17 @@
     "url": "https://ironnysh.com",
     "icon": "https://favicons.githubusercontent.com/ironnysh.com",
     "slug": "i-ronnysh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.92%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "99.45%",
-    "time": 773,
-    "timeDay": 0,
-    "timeWeek": 410,
-    "timeMonth": 629,
-    "timeYear": 773,
+    "time": 827,
+    "timeDay": 7634,
+    "timeWeek": 1614,
+    "timeMonth": 862,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2022-01-20": 1016
     }
