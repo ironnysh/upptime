@@ -78,7 +78,7 @@
     "slug": "i-ronnysh",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.46%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "88.82%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.40%",
@@ -116,9 +116,9 @@
     "url": "https://mighty-site.vercel.app",
     "icon": "https://favicons.githubusercontent.com/mighty-site.vercel.app",
     "slug": "mighty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 235,
     "timeMonth": 425,
     "timeYear": 457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-24": 0
+    }
   }
 ]
